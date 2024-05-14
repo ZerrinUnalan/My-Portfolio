@@ -18,7 +18,52 @@
             "github": "https://www.github.com/ZerrinUnalan",
             "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
             }
-    }
+    },
+    "skills": {
+        "title": "Skills",
+        "items": [{
+            "name": "JavaScript",
+            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "name": "React.Js",
+            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "name": "Node.Js",
+            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }]
+    },
+    "profile": {
+        "title": "Profile",
+        "profileInformation": {
+            "title": "Profile",
+            "items": [{
+                "label": "Date of birth",
+                "value": "01.01.199*"
+            },
+            {
+                "label": "City of residence",
+                "value": "Adana"
+            },
+            {
+                "label": "Educational background",
+                "value": "Bachelor's degree in Electrical & Electronics Engineering, Mersin Univ., 2020"
+            },
+            {
+                "label": "Preferred role",
+                "value": "Frontend, UI"
+            }
+        ]
+        },
+        "aboutMe": {
+            "title": "About Me",
+            "descriptions": [
+                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+                "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+            ]
+        }
+    },
 }
 
 "tr": {
@@ -41,4 +86,50 @@
             "github": "https://www.github.com/ZerrinUnalan",
             "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
             }
-    }
+    },
+    "skills": {
+        "title": "Beceriler",
+        "items": [{
+            "name": "JavaScript",
+            "description": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır, Bu nedenle, bilge kişi bu konularda her zaman şu seçme ilkesine bağlı kalır"
+        },
+        {
+            "name": "React.Js",
+            "description": "Ama size bir zevki kınama ve acıyı övme şeklindeki tüm bu yanlış fikrin nasıl doğduğunu açıklamalıyım ve size sistemin tam bir açıklamasını vereceğim ve gerçeğin büyük kaşifinin gerçek öğretilerini açıklayacağım."
+        },
+        {
+            "name": "Node.Js",
+            "description": "İnsan mutluluğunun ustası. Hiç kimse zevkin kendisini reddetmez, sevmez veya bundan kaçınmaz, çünkü bu zevktir, çünkü zevkin peşinden gitmeyi bilmeyenler rasyonel olarak son derece acı verici sonuçlarla karşılaşırlar."
+        }]
+    },
+    "profile": {
+        "title": "Profil",
+        "profileInformation": {
+            "title": "Profil",
+            "items": [{
+                "label": "Doğum tarihi",
+                "value": "01.01.1994"
+            },
+            {
+                "label": "İkamet şehri",
+                "value": "Adana"
+            },
+            {
+                "label": "Eğitim durumu",
+                "value": "Mersin Üniversitesi, Elektrik Elektronik Mühendisliği, 2016"
+            },
+            {
+                "label": "Tercih ettiği rol",
+                "value": "Frontend, UI"
+            }
+        ]
+        },
+        "aboutMe": {
+            "title": "Hakkımda",
+            "descriptions": [
+                "Ne de seven veya seven kimse yoktur. acının peşinden koşar ya da kendi kendine acıyı elde etmek ister, çünkü bu acıdır",
+                "Ama can sıkıcı sonuçları olmayan bir zevkin tadını çıkarmayı seçen veya sonuçta hiçbir haz vermeyen bir acıdan kaçınan bir adamda kim kusur bulmaya hakkı vardır"
+            ]
+        }
+    },
+}

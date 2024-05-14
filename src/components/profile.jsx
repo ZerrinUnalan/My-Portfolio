@@ -4,9 +4,7 @@ import { LanguageContext } from "../contexts/LanguageContext";
 const Profile = () => {
   const { apiData } = useContext(LanguageContext);
   const { profile } = apiData;
-  return (
-    
-  );
+  return;
 };
 
 export default Profile;
