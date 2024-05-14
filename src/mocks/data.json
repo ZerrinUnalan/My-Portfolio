@@ -1,135 +1,256 @@
-"en": {
+{
+  "en": {
     "header": {
-        "darkMode": "DARK MODE",
-        "lightMode": "LIGHT MODE",
-        "language": "TÜRKÇE",
-        "skills": "Skills",
-        "projects": "Projects",
-        "hireMe": "Hire me"
+      "darkMode": "DARK MODE",
+      "lightMode": "LIGHT MODE",
+      "language": "TÜRKÇE",
+      "languageSuffix": "'YE GEÇ",
+      "languagePrefix": "",
+      "skills": "Skills",
+      "projects": "Projects",
+      "hireMe": "Hire me"
     },
     "hero": {
-        "name": "Zerrin",
-        "title": "Creative thinker Minimalism lover",
-        "description": "Hi, I’m Zerrin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
-        "hireMe": "Hire me",
-        "github": "Github",
-        "linkedin": "Linkedin",
-        "links": {
-            "github": "https://www.github.com/ZerrinUnalan",
-            "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
-            }
+      "name": "Zerrin",
+      "title": "Creative thinker Minimalism lover",
+      "description": "Hi, I’m Zerrin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "heroImage": "./../../Assets/Images/hero-right.png",
+      "hireMe": "Hire me",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "github": "https://www.github.com/zerrinUnalan",
+        "linkedin": "https://www.linkedin.com/in/zerrinunalan/",
+        "hireMe": "https://www.linkedin.com/in/zerrinunalan/"
+      }
     },
     "skills": {
-        "title": "Skills",
-        "items": [{
-            "name": "JavaScript",
-            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      "title": "Skills",
+      "items": [
+        {
+          "name": "JavaScript",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-            "name": "React.Js",
-            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "name": "React.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-            "name": "Node.Js",
-            "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }]
+          "name": "Node.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
     },
     "profile": {
+      "title": "Profile",
+      "profileInformation": {
         "title": "Profile",
-        "profileInformation": {
-            "title": "Profile",
-            "items": [{
-                "label": "Date of birth",
-                "value": "01.01.199*"
-            },
-            {
-                "label": "City of residence",
-                "value": "Adana"
-            },
-            {
-                "label": "Educational background",
-                "value": "Bachelor's degree in Electrical & Electronics Engineering, Mersin Univ., 2020"
-            },
-            {
-                "label": "Preferred role",
-                "value": "Frontend, UI"
-            }
+        "items": [
+          {
+            "label": "Date of birth",
+            "value": "01.01.1994"
+          },
+          {
+            "label": "City of residence",
+            "value": "Adana"
+          },
+          {
+            "label": "Educational background",
+            "value": "Bachelor's degree in Electrical & Electronics Engineering, Mersin Unv., 2020"
+          },
+          {
+            "label": "Preferred role",
+            "value": "Frontend, UI"
+          }
         ]
-        },
-        "aboutMe": {
-            "title": "About Me",
-            "descriptions": [
-                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-                "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
-            ]
-        }
+      },
+      "aboutMe": {
+        "title": "About Me",
+        "descriptions": [
+          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
+          "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+        ]
+      }
     },
-}
-
-"tr": {
-    "header": {
-        "darkMode": "GECE MODU",
-        "lightMode": "GÜNDÜZ MODU",
-        "language": "ENGLISH",
-        "skills": "Beceriler",
-        "projects": "Projeler",
-        "hireMe": "İletişim"
+    "projects": {
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Workintech",
+          "image": "./../../Assets/Images/projects-1.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
         },
+        {
+          "title": "Random Jokes",
+          "image": "./../../Assets/Images/projects-2.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
+        },
+        {
+          "title": "Journey",
+          "image": "./../../Assets/Images/projects-3.png",
+          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "View Site",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "title": "Let’s work together on your next product.",
+      "mail": "zerunalan@gmail.com",
+      "personalBlog": "Personal Blog",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "personalBlog": "#",
+        "github": "https://www.github.com/zerrinUnalan",
+        "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
+      }
+    }
+  },
+
+  "tr": {
+    "header": {
+      "darkMode": "GECE MODU",
+      "lightMode": "GÜNDÜZ MODU",
+      "language": "ENGLISH",
+      "languageSuffix": "",
+      "languagePrefix": "SWITCH TO ",
+      "skills": "Beceriler",
+      "projects": "Projeler",
+      "hireMe": "İletişim"
+    },
     "hero": {
-        "name": "Zerrin",
-        "title": "Yaratıcı fikirler Minimalist çözümler",
-        "description": "Merhaba, Ben Zerrin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
-        "hireMe": "İletişim",
-        "github": "Github",
-        "linkedin": "Linkedin",
-        "links": {
-            "github": "https://www.github.com/ZerrinUnalan",
-            "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
-            }
+      "name": "Zerrin",
+      "title": "Yaratıcı fikirler Minimalist çözümler",
+      "description": "Merhaba, Ben Zerrin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
+      "heroImage": "./../../Assets/Images/hero-right.png",
+      "hireMe": "İletişim",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "github": "https://www.github.com/zerrinUnalan",
+        "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
+      }
     },
     "skills": {
-        "title": "Beceriler",
-        "items": [{
-            "name": "JavaScript",
-            "description": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır, Bu nedenle, bilge kişi bu konularda her zaman şu seçme ilkesine bağlı kalır"
+      "title": "Beceriler",
+      "items": [
+        {
+          "name": "JavaScript",
+          "description": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır, Bu nedenle, bilge kişi bu konularda her zaman şu seçme ilkesine bağlı kalır"
         },
         {
-            "name": "React.Js",
-            "description": "Ama size bir zevki kınama ve acıyı övme şeklindeki tüm bu yanlış fikrin nasıl doğduğunu açıklamalıyım ve size sistemin tam bir açıklamasını vereceğim ve gerçeğin büyük kaşifinin gerçek öğretilerini açıklayacağım."
+          "name": "React.Js",
+          "description": "Ama size bir zevki kınama ve acıyı övme şeklindeki tüm bu yanlış fikrin nasıl doğduğunu açıklamalıyım ve size sistemin tam bir açıklamasını vereceğim ve gerçeğin büyük kaşifinin gerçek öğretilerini açıklayacağım."
         },
         {
-            "name": "Node.Js",
-            "description": "İnsan mutluluğunun ustası. Hiç kimse zevkin kendisini reddetmez, sevmez veya bundan kaçınmaz, çünkü bu zevktir, çünkü zevkin peşinden gitmeyi bilmeyenler rasyonel olarak son derece acı verici sonuçlarla karşılaşırlar."
-        }]
+          "name": "Node.Js",
+          "description": "İnsan mutluluğunun ustası. Hiç kimse zevkin kendisini reddetmez, sevmez veya bundan kaçınmaz, çünkü bu zevktir, çünkü zevkin peşinden gitmeyi bilmeyenler rasyonel olarak son derece acı verici sonuçlarla karşılaşırlar."
+        }
+      ]
     },
     "profile": {
+      "title": "Profil",
+      "profileInformation": {
         "title": "Profil",
-        "profileInformation": {
-            "title": "Profil",
-            "items": [{
-                "label": "Doğum tarihi",
-                "value": "01.01.1994"
-            },
-            {
-                "label": "İkamet şehri",
-                "value": "Adana"
-            },
-            {
-                "label": "Eğitim durumu",
-                "value": "Mersin Üniversitesi, Elektrik Elektronik Mühendisliği, 2016"
-            },
-            {
-                "label": "Tercih ettiği rol",
-                "value": "Frontend, UI"
-            }
+        "items": [
+          {
+            "label": "Doğum tarihi",
+            "value": "01.01.1994"
+          },
+          {
+            "label": "İkamet şehri",
+            "value": "Adana"
+          },
+          {
+            "label": "Eğitim durumu",
+            "value": "Mersin Ünv. Elektirik & Elektronik Mühendisliği, 2020"
+          },
+          {
+            "label": "Tercih ettiği rol",
+            "value": "Frontend, UI"
+          }
         ]
-        },
-        "aboutMe": {
-            "title": "Hakkımda",
-            "descriptions": [
-                "Ne de seven veya seven kimse yoktur. acının peşinden koşar ya da kendi kendine acıyı elde etmek ister, çünkü bu acıdır",
-                "Ama can sıkıcı sonuçları olmayan bir zevkin tadını çıkarmayı seçen veya sonuçta hiçbir haz vermeyen bir acıdan kaçınan bir adamda kim kusur bulmaya hakkı vardır"
-            ]
-        }
+      },
+      "aboutMe": {
+        "title": "Hakkımda",
+        "descriptions": [
+          "Ne de seven veya seven kimse yoktur. acının peşinden koşar ya da kendi kendine acıyı elde etmek ister, çünkü bu acıdır",
+          "Ama can sıkıcı sonuçları olmayan bir zevkin tadını çıkarmayı seçen veya sonuçta hiçbir haz vermeyen bir acıdan kaçınan bir adamda kim kusur bulmaya hakkı vardır"
+        ]
+      }
     },
+    "projects": {
+      "title": "Projeler",
+      "items": [
+        {
+          "title": "Workintech",
+          "image": "./../../Assets/Images/projects-1.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
+        },
+        {
+          "title": "Random Jokes",
+          "image": "./../../Assets/Images/projects-2.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
+        },
+        {
+          "title": "Journey",
+          "image": "./../../Assets/Images/projects-3.png",
+          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
+          "technologies": ["react", "redux", "axios"],
+          "github": "Github",
+          "viewSite": "Görüntüle",
+          "links": {
+            "github": "#",
+            "viewSite": "#"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "title": "Gelin bir sonraki ürününüzde birlikte çalışalım.",
+      "mail": "zerunalan@gmail.com",
+      "personalBlog": "Kişisel Blog",
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "links": {
+        "personalBlog": "#",
+        "github": "https://www.github.com/zerrinUnalan",
+        "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
+      }
+    }
+  }
 }
