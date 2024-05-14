@@ -3,7 +3,7 @@ import Header from "./components/header";
 import Skills from "./components/skills";
 import Profile from "./components/profile";
 import Projects from "./components/projects";
-import { darkModeContext } from "./context/darkModeContext";
+import { darkModeContext } from "./contexts/DarkModeContext";
 import { Route } from "react-router-dom";
 
 function App() {
