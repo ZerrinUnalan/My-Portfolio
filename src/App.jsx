@@ -3,11 +3,11 @@ import Header from "./components/header";
 import Skills from "./components/skills";
 import Profile from "./components/profile";
 import Projects from "./components/projects";
-import { darkModeContext } from "./contexts/DarkModeContext";
+import { DarkModeContext } from "./contexts/DarkModeContext";
 import { Route } from "react-router-dom";
 
 function App() {
-  const { darkMode } = useContext(darkModeContext);
+  const { darkMode } = useContext(DarkModeContext);
   const darkClass = darkMode ? "dark dark:bg-[#252128]" : "";
 
   return (
