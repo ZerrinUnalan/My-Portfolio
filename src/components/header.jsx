@@ -9,6 +9,13 @@ const Header = () => {
   const apiHeader = apiData.header;
   const apiHero = apiData.hero;
 
+  const scroll = (id) => {
+    const section = document.getElementById(id);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <div className={` bg-white dark:bg-[#252128] w-full p-4`}>
       <div className="w-4/5 max-w-4xl mx-auto flex items-center justify-end gap-4 font-inter font-bold">
