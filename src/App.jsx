@@ -5,7 +5,6 @@ import Profile from "./components/profile";
 import Projects from "./components/projects";
 import { DarkModeContext } from "./contexts/DarkModeContext";
 import { Route } from "react-router-dom";
-import data from "./mocks/data.json";
 
 function App() {
   const { darkMode } = useContext(DarkModeContext);
