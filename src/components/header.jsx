@@ -50,7 +50,7 @@ const Header = () => {
       </div>
       <div className="w-4/5 max-w-4xl mx-auto flex text-black justify-between mt-4">
         <div className="text-[#7B61FF] font-semibold py-3 px-4 rounded-full bg-[#EEEBFF] dark:text-[#8F88FF] dark:bg-[#4731D3]">
-          O
+          Z
         </div>
         <nav className="flex items-center font-inter gap-4 md:gap-12 text-lg text-[#6B7280] font-medium">
           <div className="cursor-pointer" onClick={() => scroll("skills")}>
@@ -114,7 +114,7 @@ const Header = () => {
               className="flex items-center px-3 py-2 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
             >
               <svg
-                width="24"
+                width="23"
                 height="26"
                 viewBox="0 0 24 26"
                 fill="none"
