@@ -50,13 +50,13 @@ const Header = () => {
       </div>
       <div className="w-4/5 max-w-4xl mx-auto flex text-black justify-between mt-4">
         <div
-          className="text-[#7B61FF] font-semibold py-3 px-5 rounded-full bg-[#EEEBFF] dark:text-[#8F88FF] dark:bg-[#4731D3]"
-          style={{ transform: "rotate(30deg)" }}
+          className="text-[#7B61FF] font-bold text-lg py-3 px-5 rounded-full bg-[#EEEBFF] dark:text-[#8F88FF] dark:bg-[#4731D3]"
+          style={{ transform: "rotate(25deg)" }}
         >
           Z
         </div>
 
-        <nav className="flex items-center font-inter gap-4 md:gap-12 text-lg text-[#6B7280] font-medium">
+        <nav className="flex items-center font-inter gap-4 md:gap-20 text-lg text-[#6B7280] font-medium">
           <div className="cursor-pointer" onClick={() => scroll("skills")}>
             {apiHeader.skills}
           </div>
@@ -85,22 +85,22 @@ const Header = () => {
           <h2 className="text-[#6B7280] dark:text-white text-lg">
             {apiHero.description}
           </h2>
-          <div className="text-[#3730A3] text-lg font-medium flex flex-wrap gap-2  ">
+          <div className="text-[#3730A3] text-l font-medium flex flex-wrap gap-2  ">
             <a
               target="_blank"
               href={apiHero.links.hireMe}
-              className="px-5 py-3 text-white bg-[#3730A3] dark:bg-[#E1E1FF] dark:text-black rounded"
+              className="px-7 py-2 text-white bg-[#3730A3] dark:bg-[#E1E1FF] dark:text-black rounded"
             >
               {apiHero.hireMe}
             </a>
             <a
               target="_blank"
               href={apiHero.links.github}
-              className="flex items-center px-5 py-3 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
+              className="flex items-center px-4 py-2 gap-3 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
             >
               <svg
                 width="26"
-                height="28"
+                height="26"
                 viewBox="0 0 26 28"
                 fill="none"
                 xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +115,7 @@ const Header = () => {
             <a
               target="_blank"
               href={apiHero.links.linkedin}
-              className="flex items-center px-5 py-2 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
+              className="flex items-center px-4 py-2 gap-3 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
             >
               <svg
                 width="23"
