@@ -14,7 +14,7 @@
       "name": "Zerrin",
       "title": "Creative thinker Minimalism lover",
       "description": "Hi, I’m Zerrin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
-      "heroImage": "./../../Assets/Images/hero-right.png",
+      "heroImage": "./../../assets/images/hero-right.png",
       "hireMe": "Hire me",
       "github": "Github",
       "linkedin": "Linkedin",
@@ -77,7 +77,7 @@
       "items": [
         {
           "title": "Workintech",
-          "image": "./../../Assets/Images/projects-1.png",
+          "image": "./../../assets/images/projects-1.png",
           "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
@@ -89,7 +89,7 @@
         },
         {
           "title": "Random Jokes",
-          "image": "./../../Assets/Images/projects-2.png",
+          "image": "./../../assets/images/projects-2.png",
           "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
@@ -101,7 +101,7 @@
         },
         {
           "title": "Journey",
-          "image": "./../../Assets/Images/projects-3.png",
+          "image": "./../../assets/images/projects-3.png",
           "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
@@ -142,7 +142,7 @@
       "name": "Zerrin",
       "title": "Yaratıcı fikirler Minimalist çözümler",
       "description": "Merhaba, Ben Zerrin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
-      "heroImage": "./../../Assets/Images/hero-right.png",
+      "heroImage": "./../../assets/images/hero-right.png",
       "hireMe": "İletişim",
       "github": "Github",
       "linkedin": "Linkedin",
@@ -204,7 +204,7 @@
       "items": [
         {
           "title": "Workintech",
-          "image": "./../../Assets/Images/projects-1.png",
+          "image": "./../../assets/images/projects-1.png",
           "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",
@@ -216,7 +216,7 @@
         },
         {
           "title": "Random Jokes",
-          "image": "./../../Assets/Images/projects-2.png",
+          "image": "./../../assets/images/projects-2.png",
           "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
           "technologies": ["react", "redux", "axios"],
           "github": "Github",

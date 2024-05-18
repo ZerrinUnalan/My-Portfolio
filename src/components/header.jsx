@@ -56,7 +56,7 @@ const Header = () => {
           Z
         </div>
 
-        <nav className="flex items-center font-inter gap-4 md:gap-20 text-lg text-[#6B7280] font-medium">
+        <nav className="flex items-center gap-4 md:gap-20 text-lg text-[#6B7280] font-medium">
           <div className="cursor-pointer" onClick={() => scroll("skills")}>
             {apiHeader.skills}
           </div>
