@@ -49,9 +49,13 @@ const Header = () => {
         </p>
       </div>
       <div className="w-4/5 max-w-4xl mx-auto flex text-black justify-between mt-4">
-        <div className="text-[#7B61FF] font-semibold py-3 px-4 rounded-full bg-[#EEEBFF] dark:text-[#8F88FF] dark:bg-[#4731D3]">
+        <div
+          className="text-[#7B61FF] font-semibold py-3 px-5 rounded-full bg-[#EEEBFF] dark:text-[#8F88FF] dark:bg-[#4731D3]"
+          style={{ transform: "rotate(30deg)" }}
+        >
           Z
         </div>
+
         <nav className="flex items-center font-inter gap-4 md:gap-12 text-lg text-[#6B7280] font-medium">
           <div className="cursor-pointer" onClick={() => scroll("skills")}>
             {apiHeader.skills}
@@ -85,14 +89,14 @@ const Header = () => {
             <a
               target="_blank"
               href={apiHero.links.hireMe}
-              className="px-5 py-2 text-white bg-[#3730A3] dark:bg-[#E1E1FF] dark:text-black rounded"
+              className="px-5 py-3 text-white bg-[#3730A3] dark:bg-[#E1E1FF] dark:text-black rounded"
             >
               {apiHero.hireMe}
             </a>
             <a
               target="_blank"
               href={apiHero.links.github}
-              className="flex items-center px-3 py-2 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
+              className="flex items-center px-5 py-3 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
             >
               <svg
                 width="26"
@@ -111,7 +115,7 @@ const Header = () => {
             <a
               target="_blank"
               href={apiHero.links.linkedin}
-              className="flex items-center px-3 py-2 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
+              className="flex items-center px-5 py-2 gap-2 border border-[#3730A3] dark:border-[#E1E1FF] dark:bg-[#383838] dark:text-[#E1E1FF] rounded"
             >
               <svg
                 width="23"
