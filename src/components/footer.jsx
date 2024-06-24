@@ -12,7 +12,7 @@ const Footer = () => {
         </h1>
         <div className="flex flex-col gap-2 w-3/5 md:flex-row md:justify-between md:gap-0 md:w-full">
           <div className="flex gap-2">
-            <img src="./../../Assets/Images/mail-logo.png" alt="" />
+            <img src="./../../assets/images/mail-logo.png" alt="" />
             <a
               className="text-[#AF0C48] dark:text-[#BAB2E7] underline text-xl font-medium"
               href="mailto:zerunalan@gmail.com"

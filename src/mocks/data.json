@@ -14,7 +14,7 @@
       "name": "Zerrin",
       "title": "Creative thinker Minimalism lover",
       "description": "Hi, I’m Zerrin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
-      "heroImage": "./../../assets/images/hero-right.png",
+      "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "Hire me",
       "github": "Github",
       "linkedin": "Linkedin",
@@ -60,7 +60,7 @@
           },
           {
             "label": "Preferred role",
-            "value": "Frontend, UI"
+            "value": "Full Stack, UI"
           }
         ]
       },
@@ -142,7 +142,7 @@
       "name": "Zerrin",
       "title": "Yaratıcı fikirler Minimalist çözümler",
       "description": "Merhaba, Ben Zerrin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
-      "heroImage": "./../../assets/images/hero-right.png",
+      "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "İletişim",
       "github": "Github",
       "linkedin": "Linkedin",
@@ -187,7 +187,7 @@
           },
           {
             "label": "Tercih ettiği rol",
-            "value": "Frontend, UI"
+            "value": "Full Stack, UI"
           }
         ]
       },
