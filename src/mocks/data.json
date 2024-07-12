@@ -13,7 +13,7 @@
     "hero": {
       "name": "Zerrin",
       "title": "Creative thinker Minimalism lover",
-      "description": "Hi, I’m Zerrin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+      "description": "Hi, I’m Zerrin. I am a software developer with a passion for crafting exceptional user experiences. I possess extensive experience in both front-end and back-end development. I am committed to designing my projects in a robust, scalable, and innovative manner. As an effective communicator within teams, I am here to collaborate and drive our projects towards success.",
       "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "Hire me",
       "github": "Github",
@@ -28,15 +28,15 @@
       "title": "Skills",
       "items": [
         {
-          "name": "JavaScript",
+          "name": "Front-End",
           "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "name": "React.Js",
+          "name": "Back-End",
           "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-          "name": "Node.Js",
+          "name": "Database",
           "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
@@ -67,8 +67,8 @@
       "aboutMe": {
         "title": "About Me",
         "descriptions": [
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia.",
-          "Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+          "I am passionate about staying up-to-date with the latest trends and technologies in the ever-evolving field of front-end development. I am proficient in front-end frameworks like React, Redux, and Node.js, as well as various JavaScript libraries.",
+          "I have a proven track record of successfully collaborating with teams in past projects and effectively communicating my ideas in a clear and concise manner."
         ]
       }
     },
@@ -141,7 +141,7 @@
     "hero": {
       "name": "Zerrin",
       "title": "Yaratıcı fikirler Minimalist çözümler",
-      "description": "Merhaba, Ben Zerrin. Full-stack geliştiriciyim. Sağlam ve ölçeklenebilir front-end ürünleriyle harika kullanıcı deneyimleri yaratmak istiyorsanız, tanışalım mı?",
+      "description": "Merhaba! Ben Zerrin. Kullanıcı deneyimlerini mükemmelleştirmeye tutkulu bir yazılım geliştiricisiyim. Hem ön yüz hem de arka yüz geliştirmede geniş bir tecrübeye sahibim. Projelerimi her zaman güçlü, ölçeklenebilir ve yenilikçi bir şekilde tasarlamaya özen gösteriyorum. Ekip içinde etkili bir iletişimci olarak, projelerimizi birlikte başarıya ulaştırmak için buradayım.",
       "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "İletişim",
       "github": "Github",
@@ -155,15 +155,15 @@
       "title": "Beceriler",
       "items": [
         {
-          "name": "JavaScript",
+          "name": "Ön Yüz",
           "description": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır, Bu nedenle, bilge kişi bu konularda her zaman şu seçme ilkesine bağlı kalır"
         },
         {
-          "name": "React.Js",
+          "name": "Arka Yüz",
           "description": "Ama size bir zevki kınama ve acıyı övme şeklindeki tüm bu yanlış fikrin nasıl doğduğunu açıklamalıyım ve size sistemin tam bir açıklamasını vereceğim ve gerçeğin büyük kaşifinin gerçek öğretilerini açıklayacağım."
         },
         {
-          "name": "Node.Js",
+          "name": "Veritabanı",
           "description": "İnsan mutluluğunun ustası. Hiç kimse zevkin kendisini reddetmez, sevmez veya bundan kaçınmaz, çünkü bu zevktir, çünkü zevkin peşinden gitmeyi bilmeyenler rasyonel olarak son derece acı verici sonuçlarla karşılaşırlar."
         }
       ]
@@ -194,8 +194,8 @@
       "aboutMe": {
         "title": "Hakkımda",
         "descriptions": [
-          "Ne de seven veya seven kimse yoktur. acının peşinden koşar ya da kendi kendine acıyı elde etmek ister, çünkü bu acıdır",
-          "Ama can sıkıcı sonuçları olmayan bir zevkin tadını çıkarmayı seçen veya sonuçta hiçbir haz vermeyen bir acıdan kaçınan bir adamda kim kusur bulmaya hakkı vardır"
+          "Sürekli gelişen ön yüz geliştirme alanındaki en son trendler ve teknolojiler hakkında güncel kalma konusunda tutkuluyum. React, Redux, Node.js gibi ön yüz çerçevelerinde ve JavaScript kütüphanelerinde deneyimliyim.",
+          "Geçmiş projelerde ekiplerle nasıl başarılı bir şekilde çalıştığımı ve fikirlerimi açık ve net bir şekilde nasıl ilettiğimi gösteren birçok somut başarıya sahibim."
         ]
       }
     },
