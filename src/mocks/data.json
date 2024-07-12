@@ -13,7 +13,7 @@
     "hero": {
       "name": "Zerrin",
       "title": "Creative thinker Minimalism lover",
-      "description": "Hi, I’m Zerrin. I am a software developer with a passion for crafting exceptional user experiences. I possess extensive experience in both front-end and back-end development. I am committed to designing my projects in a robust, scalable, and innovative manner. As an effective communicator within teams, I am here to collaborate and drive our projects towards success.",
+      "description": "Hi, I’m Zerrin. I am a Software Engineer with a passion for crafting exceptional user experiences. I possess extensive experience in both front-end and back-end development. I am committed to designing my projects in a robust, scalable, and innovative manner. As an effective communicator within teams, I am here to collaborate and drive our projects towards success.",
       "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "Hire me",
       "github": "Github",
@@ -29,15 +29,15 @@
       "items": [
         {
           "name": "Front-End",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "JavaScript, ReactJs, Redux, TailwindCSS, Bootstrap, APIs"
         },
         {
           "name": "Back-End",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "Java, Spring Boot, NodeJS, RestAPI"
         },
         {
           "name": "Database",
-          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          "description": "MySQL, PostgreSQL"
         }
       ]
     },
@@ -56,7 +56,7 @@
           },
           {
             "label": "Educational background",
-            "value": "Bachelor's degree in Electrical & Electronics Engineering, Mersin Unv."
+            "value": "Bachelor's degree in Electrical & Electronics Engineering"
           },
           {
             "label": "Preferred role",
@@ -76,39 +76,47 @@
       "title": "Projects",
       "items": [
         {
-          "title": "Workintech",
-          "image": "./../../assets/images/projects-1.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "Code Ignites Hunger, Pizza Satiates It",
+          "image": "./../../assets/images/projects-1.jpeg",
+          "description": "In this application, which makes the pizza ordering process simple and extremely fun, users can create their personalized pizzas by selecting their favorite ingredients and order their pizzas instantly. Developed using React and Axios, it stands out with its user-friendly interface.",
+          "technologies": ["React", "Redux", "Axios"],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "#",
+            "github": "https://github.com/ZerrinUnalan/fsweb-s7-challenge-pizza",
             "viewSite": "#"
           }
         },
         {
-          "title": "Random Jokes",
-          "image": "./../../assets/images/projects-2.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "My Portfolio",
+          "image": "./../../assets/images/projects-2.jpeg",
+          "description": "I developed a portfolio site containing my resume using Redux and Tailwind CSS. Redux provides powerful state management for the application, while Tailwind CSS facilitated rapid and flexible UI design. Using these technologies, I effectively presented my resume with a user-friendly interface.",
+          "technologies": ["React", "Redux", "Axios", "Tailwind"],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "#",
-            "viewSite": "#"
+            "github": "https://github.com/ZerrinUnalan/My-Portfolio",
+            "viewSite": "zerrinunalan.vercel.app"
           }
         },
         {
-          "title": "Journey",
-          "image": "./../../assets/images/projects-3.png",
-          "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "E-Commerce",
+          "image": "./../../assets/images/projects-3.jpeg",
+          "description": "With this comprehensive e-commerce platform, you can easily browse various products, add them to your cart, and make secure purchases. My user-friendly interface, easy navigation, and fast checkout process provide you with an enjoyable shopping experience. This project is optimized to elevate user experience to the highest level.",
+          "technologies": [
+            "React",
+            "Redux",
+            "Axios",
+            "Tailwind",
+            "Java",
+            "SpringBoot",
+            "PostgreSQL"
+          ],
           "github": "Github",
           "viewSite": "View Site",
           "links": {
-            "github": "#",
-            "viewSite": "#"
+            "github": "https://github.com/ZerrinUnalan/zerrinunalan-ecommerce",
+            "viewSite": "https://zerrinunalan-ecommerce.vercel.app/"
           }
         }
       ]
@@ -120,7 +128,7 @@
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "personalBlog": "#",
+        "personalBlog": "https://zerrinunalan.vercel.app/",
         "github": "https://www.github.com/zerrinUnalan",
         "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
       }
@@ -141,7 +149,7 @@
     "hero": {
       "name": "Zerrin",
       "title": "Yaratıcı fikirler Minimalist çözümler",
-      "description": "Merhaba! Ben Zerrin. Kullanıcı deneyimlerini mükemmelleştirmeye tutkulu bir yazılım geliştiricisiyim. Hem ön yüz hem de arka yüz geliştirmede geniş bir tecrübeye sahibim. Projelerimi her zaman güçlü, ölçeklenebilir ve yenilikçi bir şekilde tasarlamaya özen gösteriyorum. Ekip içinde etkili bir iletişimci olarak, projelerimizi birlikte başarıya ulaştırmak için buradayım.",
+      "description": "Merhaba! Ben Zerrin. Kullanıcı deneyimlerini mükemmelleştirmeye tutkulu bir Yazılım Mühendisi'yim. Hem ön yüz hem de arka yüz geliştirmede geniş bir tecrübeye sahibim. Projelerimi her zaman güçlü, ölçeklenebilir ve yenilikçi bir şekilde tasarlamaya özen gösteriyorum. Ekip içinde etkili bir iletişimci olarak, projelerimizi birlikte başarıya ulaştırmak için buradayım.",
       "heroImage": "./../../assets/images/hero-right.jpeg",
       "hireMe": "İletişim",
       "github": "Github",
@@ -155,16 +163,16 @@
       "title": "Beceriler",
       "items": [
         {
-          "name": "Ön Yüz",
-          "description": "Acıyı seven, arayan ve ona sahip olmak isteyen hiç kimse yoktur. Nedeni basit. Çünkü o acıdır, Bu nedenle, bilge kişi bu konularda her zaman şu seçme ilkesine bağlı kalır"
+          "name": "Ön-Yüz",
+          "description": "JavaScript, ReactJs, Redux, TailwindCSS, Bootstrap, APIs"
         },
         {
-          "name": "Arka Yüz",
-          "description": "Ama size bir zevki kınama ve acıyı övme şeklindeki tüm bu yanlış fikrin nasıl doğduğunu açıklamalıyım ve size sistemin tam bir açıklamasını vereceğim ve gerçeğin büyük kaşifinin gerçek öğretilerini açıklayacağım."
+          "name": "Arka-Yüz",
+          "description": "Java, Spring Boot, NodeJS, RestAPI"
         },
         {
           "name": "Veritabanı",
-          "description": "İnsan mutluluğunun ustası. Hiç kimse zevkin kendisini reddetmez, sevmez veya bundan kaçınmaz, çünkü bu zevktir, çünkü zevkin peşinden gitmeyi bilmeyenler rasyonel olarak son derece acı verici sonuçlarla karşılaşırlar."
+          "description": "MySQL, PostgreSQL"
         }
       ]
     },
@@ -183,7 +191,7 @@
           },
           {
             "label": "Eğitim durumu",
-            "value": "Mersin Ünv. Elektrik & Elektronik Mühendisliği"
+            "value": "Elektrik & Elektronik Mühendisliği, Lisans"
           },
           {
             "label": "Tercih ettiği rol",
@@ -203,39 +211,47 @@
       "title": "Projeler",
       "items": [
         {
-          "title": "Workintech",
-          "image": "./../../assets/images/projects-1.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "Kod Acıktırır, Pizza Doyurur",
+          "image": "./../../assets/images/projects-1.jpeg",
+          "description": "Pizza sipariş sürecini basit ve aşırı eğlenceli hale getiren bu uygulamada kullanıcılar en sevdikleri malzemeleri seçerek kişiselleştirilmiş pizzalarını oluşturabilir ve anında pizza siparişi verebilir. React ve Axios kullanılarak geliştirilmiştir, kullanıcı dostu arayüzüyle öne çıkmaktadır.",
+          "technologies": ["React", "Redux", "Axios"],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "#",
+            "github": "https://github.com/ZerrinUnalan/fsweb-s7-challenge-pizza",
             "viewSite": "#"
           }
         },
         {
-          "title": "Random Jokes",
-          "image": "./../../assets/images/projects-2.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "Portfolyom",
+          "image": "./../../assets/images/projects-2.jpeg",
+          "description": "Özgeçmişimi içeren portföy sitesini Redux ve Tailwind CSS kullanarak geliştirdim. Redux, uygulama durum yönetimi için güçlü bir araç sağlarken, Tailwind CSS ise hızlı ve esnek bir şekilde UI tasarımını kolaylaştırdı. Bu teknolojileri kullanarak, kullanıcı dostu bir arayüzle özgeçmişimi etkili bir şekilde sunmayı başardım.",
+          "technologies": ["React", "Redux", "Axios"],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "#",
-            "viewSite": "#"
+            "github": "https://github.com/ZerrinUnalan/My-Portfolio",
+            "viewSite": "zerrinunalan.vercel.app"
           }
         },
         {
-          "title": "Journey",
-          "image": "./../../assets/images/projects-3.png",
-          "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimal kurulumlu bir çerez eklentisi. Bu, vanilya JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
-          "technologies": ["react", "redux", "axios"],
+          "title": "E-Ticaret",
+          "image": "./../../assets/images/projects-3.jpeg",
+          "description": "Bu kapsamlı e-ticaret platformu ile çeşitli ürünleri rahatlıkla görüntüleyebilir, sepete ekleyebilir ve güvenli bir şekilde satın alabilirsiniz. Kullanıcı dostu arayüzü, kolay gezinme ve hızlı ödeme işlemleriyle size keyifli bir alışveriş deneyimi sunar. Bu proje, kullanıcı deneyimini en üst seviyeye çıkarmak için optimize edilmiştir.",
+          "technologies": [
+            "React",
+            "Redux",
+            "Axios",
+            "Tailwind",
+            "Java",
+            "SpringBoot",
+            "PostgreSQL"
+          ],
           "github": "Github",
           "viewSite": "Görüntüle",
           "links": {
-            "github": "#",
-            "viewSite": "#"
+            "github": "https://github.com/ZerrinUnalan/zerrinunalan-ecommerce",
+            "viewSite": "https://zerrinunalan-ecommerce.vercel.app/"
           }
         }
       ]
@@ -247,7 +263,7 @@
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "personalBlog": "#",
+        "personalBlog": "zerrinunalan.vercel.app",
         "github": "https://www.github.com/zerrinUnalan",
         "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
       }
