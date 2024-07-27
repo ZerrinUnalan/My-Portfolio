@@ -128,7 +128,7 @@
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "personalBlog": "https://zerrinunalan.vercel.app/",
+        "personalBlog": "#",
         "github": "https://www.github.com/zerrinUnalan",
         "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
       }
@@ -223,7 +223,7 @@
           }
         },
         {
-          "title": "Portfolyom",
+          "title": "Portfolyo",
           "image": "./../../assets/images/projects-2.jpeg",
           "description": "Özgeçmişimi içeren portföy sitesini Redux ve Tailwind CSS kullanarak geliştirdim. Redux, uygulama durum yönetimi için güçlü bir araç sağlarken, Tailwind CSS ise hızlı ve esnek bir şekilde UI tasarımını kolaylaştırdı. Bu teknolojileri kullanarak, kullanıcı dostu bir arayüzle özgeçmişimi etkili bir şekilde sunmayı başardım.",
           "technologies": ["React", "Redux", "Axios"],
@@ -263,7 +263,7 @@
       "github": "Github",
       "linkedin": "Linkedin",
       "links": {
-        "personalBlog": "zerrinunalan.vercel.app",
+        "personalBlog": "#",
         "github": "https://www.github.com/zerrinUnalan",
         "linkedin": "https://www.linkedin.com/in/zerrinunalan/"
       }
