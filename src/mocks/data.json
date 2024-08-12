@@ -29,15 +29,15 @@
       "items": [
         {
           "name": "Front-End",
-          "description": "JavaScript, ReactJs, Redux, TailwindCSS, Bootstrap, APIs"
+          "description": "JavaScript, ReactJs, Hooks, Context API, Redux, Axios, Yup, Jest, Cypress, HTML, CSS, TailwindCSS, Bootstrap, APIs"
         },
         {
           "name": "Back-End",
-          "description": "Java, Spring Boot, NodeJS, RestAPI"
+          "description": "Java, OOP, Maven, Spring Core, Spring Boot, Spring Data JPA, Spring Security, NodeJS, RestAPI, JUnit, Mockito, Git, .Net"
         },
         {
           "name": "Database",
-          "description": "MySQL, PostgreSQL"
+          "description": "Data Structures, Design Patterns, SQL, MySQL, PostgreSQL"
         }
       ]
     },
@@ -164,15 +164,15 @@
       "items": [
         {
           "name": "Ön-Yüz",
-          "description": "JavaScript, ReactJs, Redux, TailwindCSS, Bootstrap, APIs"
+          "description": "JavaScript, ReactJs, Hooks, Context API, Redux, Axios, Yup, Jest, Cypress, HTML, CSS, TailwindCSS, Bootstrap, APIs"
         },
         {
           "name": "Arka-Yüz",
-          "description": "Java, Spring Boot, NodeJS, RestAPI"
+          "description": "Java, OOP, Maven, Spring Core, Spring Boot, Spring Data JPA, Spring Security, NodeJS, RestAPI, JUnit, Mockito, Git, .Net"
         },
         {
           "name": "Veritabanı",
-          "description": "MySQL, PostgreSQL"
+          "description": "Data Structures, Design Patterns, SQL, MySQL, PostgreSQL"
         }
       ]
     },
@@ -239,6 +239,7 @@
           "image": "./../../assets/images/projects-3.jpeg",
           "description": "Bu kapsamlı e-ticaret platformu ile çeşitli ürünleri rahatlıkla görüntüleyebilir, sepete ekleyebilir ve güvenli bir şekilde satın alabilirsiniz. Kullanıcı dostu arayüzü, kolay gezinme ve hızlı ödeme işlemleriyle size keyifli bir alışveriş deneyimi sunar. Bu proje, kullanıcı deneyimini en üst seviyeye çıkarmak için optimize edilmiştir.",
           "technologies": [
+            "JavaScript",
             "React",
             "Redux",
             "Axios",
